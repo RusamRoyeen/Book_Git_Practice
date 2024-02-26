@@ -1,2 +1,2 @@
-this is page 5 under chapter 2
+this is page 5 under Chapter 2
 I created this file using github.com
